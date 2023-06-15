@@ -20,7 +20,7 @@ The `results` folder contains visual result of models:
 
 
 - This file includes plots with images and their feature maps after the global average pooling layer.
-![Info](results/feature_maps/gap_maps.jpg)
+![Info](results/feature_maps/gap_maps2.png)
 
 ## Request for Dataset
 
